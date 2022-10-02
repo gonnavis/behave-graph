@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../threeify"
+		},
+		{
+			"path": "../threeify-glsl-transpiler"
 		}
 	],
 	"settings": {}
